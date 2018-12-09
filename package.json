@@ -1,0 +1,15 @@
+{
+  "name": "yarnapp",
+  "version": "1.0.0",
+  "description": "Yarn Test",
+  "main": "index.js",
+  "author": "Me Me",
+  "license": "MIT",
+  "scripts":{
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "gulp": "*"
+  }
+}
